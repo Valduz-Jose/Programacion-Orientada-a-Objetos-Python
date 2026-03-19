@@ -17,7 +17,7 @@ class Perro(Animal):
     print("Duermo 15 horas al dia")
     
   
-print("Ejemplo de herencia en python")
+print("Ejemplo de sobrescritura en python")
 
 animal1 = Animal()
 animal1.comer()
